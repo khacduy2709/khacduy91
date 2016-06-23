@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://centapark-dongden.blogspot.com/p/blog-page.html' target='_blank'><img src='https://lh4.googleusercontent.com/-lFdP3UwdeR4/V2dfu6kCE6I/AAAAAAAABlY/aFX0KjUtVfk1Ache2U60xMHn8NWMwjkLwCL0B/w1044-h526-no/Centa%2BPark%2528Th%25C6%25B0%25C6%25A1ng%2Bm%25E1%25BA%25A1i%2529.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://centapark-dongden.blogspot.com/p/blog-page.html' target='_blank'><img src='https://lh4.googleusercontent.com/-lFdP3UwdeR4/V2dfu6kCE6I/AAAAAAAABlY/aFX0KjUtVfk1Ache2U60xMHn8NWMwjkLwCL0B/w1044-h526-no/Centa%2BPark%2528Th%25C6%25B0%25C6%25A1ng%2Bm%25E1%25BA%25A1i%2529.jpg' width='500px'/>Căn hộ Centa Park</a>. Phòng kinh doanh Chủ đầu tư. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
